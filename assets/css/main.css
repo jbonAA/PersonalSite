@@ -2623,6 +2623,8 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+		
+
 		#header strong, #header b {
 			color: #ffffff;
 		}
@@ -2640,7 +2642,8 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 9em;
+			
 		}
 
 /* Footer */
