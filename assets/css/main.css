@@ -2571,6 +2571,11 @@ input, select, textarea {
 			line-height: 1.5em;
 			margin: 0;
 		}
+	
+	.work-item img {
+		width: 60vw;
+		height: 100%;
+	}
 
 /* Header */
 
@@ -2642,7 +2647,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 9em;
+			width: 15em;
 			
 		}
 
