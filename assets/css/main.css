@@ -2116,7 +2116,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 60%;
 		}
 
 			.image.left img, .image.right img {
@@ -2504,6 +2504,11 @@ input, select, textarea {
 		input[type="button"].small,
 		.button.small {
 			font-size: 0.8em;
+		}
+
+		.pic {
+			width: 70%;
+			height: 70%;
 		}
 
 		input[type="submit"].large,
