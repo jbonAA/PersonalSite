@@ -2506,6 +2506,11 @@ input, select, textarea {
 			font-size: 0.8em;
 		}
 
+		.pic {
+			width: 70%;
+			height: 70%;
+		}
+
 		input[type="submit"].large,
 		input[type="reset"].large,
 		input[type="button"].large,
